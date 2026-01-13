@@ -224,7 +224,7 @@ Apple remains the disciplined outlier, betting that AI models become commodities
 Strategic Foresight and Financial Intelligence professional with 25+ years of experience in finance transformation, decision analytics, and long-range strategic planning.
 
 - [LinkedIn](https://www.linkedin.com/in/ekkarit-gaewprapun-cma-fmva%C2%AE-3153a0151/)
-- [GitHub]((https://github.com/ekkaritg-USA)
+- [GitHub](https://github.com/ekkaritg-USA)
 
 ---
 
