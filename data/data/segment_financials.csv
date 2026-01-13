@@ -1,0 +1,49 @@
+ticker,fiscal_year,segment_name,segment_revenue,segment_operating_income
+AAPL,2022,Consolidated,361609.0,109666.0
+AAPL,2023,Consolidated,361218.0,105554.0
+AAPL,2024,Consolidated,384904.0,119618.0
+MSFT,2022,Intelligent Cloud,80707.0,36467.0
+MSFT,2022,Productivity and Business Processes,58540.0,28157.0
+MSFT,2022,More Personal Computing,46417.0,16737.0
+MSFT,2023,Intelligent Cloud,88652.0,38126.0
+MSFT,2023,Productivity and Business Processes,67605.0,30888.0
+MSFT,2023,More Personal Computing,51855.0,17816.0
+MSFT,2024,Intelligent Cloud,106484.0,49562.0
+MSFT,2024,Productivity and Business Processes,81734.0,40226.0
+MSFT,2024,More Personal Computing,62687.0,22938.0
+GOOGL,2022,Google Services,236414.0,86553.0
+GOOGL,2022,Google Cloud,29121.0,1514.0
+GOOGL,2022,Other Bets,2671.0,-7821.0
+GOOGL,2023,Google Services,266132.0,96221.0
+GOOGL,2023,Google Cloud,33905.0,1718.0
+GOOGL,2023,Other Bets,3144.0,-9818.0
+GOOGL,2024,Google Services,310734.0,112147.0
+GOOGL,2024,Google Cloud,37609.0,1820.0
+GOOGL,2024,Other Bets,3537.0,-10518.0
+AMZN,2022,AWS,83305.0,25422.0
+AMZN,2022,North America,300990.0,14712.0
+AMZN,2022,International,103035.0,-2000.0
+AMZN,2023,AWS,91112.0,28683.0
+AMZN,2023,North America,336710.0,16743.0
+AMZN,2023,International,113256.0,-2245.0
+AMZN,2024,AWS,105015.0,31187.0
+AMZN,2024,North America,382134.0,19498.0
+AMZN,2024,International,129121.0,-2593.0
+META,2022,Family of Apps,109594.0,53148.0
+META,2022,Reality Labs,2290.0,-15694.0
+META,2023,Family of Apps,130831.0,64105.0
+META,2023,Reality Labs,2616.0,-18134.0
+META,2024,Family of Apps,159927.0,77912.0
+META,2024,Reality Labs,3300.0,-22514.0
+NVDA,2022,Compute & Networking,24455.0,16995.0
+NVDA,2022,Graphics,3328.0,1438.0
+NVDA,2023,Compute & Networking,52503.0,35714.0
+NVDA,2023,Graphics,7147.0,3119.0
+NVDA,2024,Compute & Networking,116056.0,82591.0
+NVDA,2024,Graphics,16081.0,6892.0
+TSLA,2022,Automotive,61704.0,6042.0
+TSLA,2022,Energy Generation and Storage,10707.0,1617.0
+TSLA,2023,Automotive,68561.0,6932.0
+TSLA,2023,Energy Generation and Storage,12526.0,1951.0
+TSLA,2024,Automotive,84664.0,8669.0
+TSLA,2024,Energy Generation and Storage,14489.0,2159.0
